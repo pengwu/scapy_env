@@ -1,0 +1,1 @@
+../../../../share/pyshared/scapy/as_resolvers.py

@@ -1,0 +1,1 @@
+../../../../share/pyshared/pyx/attr.py

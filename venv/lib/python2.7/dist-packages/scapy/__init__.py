@@ -1,0 +1,1 @@
+../../../../share/pyshared/scapy/__init__.py
